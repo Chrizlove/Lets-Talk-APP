@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "584090684487",
+    "project_id": "chrizsocial-56280",
+    "storage_bucket": "chrizsocial-56280.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584090684487:android:88f53dd3157de4cc247562",
+        "android_client_info": {
+          "package_name": "com.example.chrizsocial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584090684487-at4lfmqm7d929jgfg7nrbt3ec19f9qu7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chrizsocial",
+            "certificate_hash": "5e66fea395b20791f7d44a74a3f7fd0ae6a15734"
+          }
+        },
+        {
+          "client_id": "584090684487-v17l65og4ehhl13pk6ppmhgsdjbl89kd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWOWdbbPjIxForFqpv2YHunWg3yyMSAC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584090684487-v17l65og4ehhl13pk6ppmhgsdjbl89kd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
